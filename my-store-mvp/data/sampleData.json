@@ -1,0 +1,11 @@
+[
+  {
+    "region": "서울 성수동",
+    "industry": "디저트 카페",
+    "expected_sales": 1500,
+    "expected_profit": 650,
+    "monthly_rent": 300,
+    "competition_level": "상",
+    "startup_score": "B+"
+  }
+]
